@@ -1,0 +1,39 @@
+.row{   
+    display:flex;
+    justify-content:space-around;
+    background-color:black;
+    color:#fd670f;
+    font-size:20px;
+    font-family: 'Eczar', serif;
+
+    
+}
+.headshot{
+    width:25%;
+    border-radius:50%;
+    border:5px solid white;} 
+    
+#picture{
+    width:100%;
+    }
+   
+
+.mid{
+    background-color:black;
+    color:white;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+
+a:visited {
+    color: #fd670f;
+}
+
+a:link{
+    color: #fd670f;
+}
